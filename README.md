@@ -30,16 +30,16 @@ This console application allows users to convert numbers between **binary**, **d
 ## Installation / Setup
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+- git clone https://github.com/your-username/your-repo.git
+- cd your-repo
 
 ### 2. Install Node.js (if not already installed)
 
 # macOS
-brew install node
+- brew install node
 
 # Ubuntu
-sudo apt install nodejs npm
+- sudo apt install nodejs npm
 
 ### 3. Run the Application
-node main.js
+- node main.js
