@@ -9,6 +9,7 @@ const readline = require('readline');
 let currentUserInput = '';
 let currentSelectedUserInput = '';
 
+//========================================
 // Constants
 const MAX_BINARY_LENGTH = 64;
 const MAX_INPUT_LENGTH = 100;
